@@ -1,0 +1,18 @@
+{
+  "name": "cqlab-sdk-usage-example",
+  "version": "1.0.0",
+  "description": "example using the typescript sdk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "execute": "npx ts-node ./index.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@cqlab/sdk": "^0.0.6"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.1"
+  }
+}
